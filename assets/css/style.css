@@ -901,7 +901,11 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
+<<<<<<< HEAD
   background: url("../img/cta-bg.jpg") no-repeat;
+=======
+  background: rgba(1, 4, 136, 0.9);
+>>>>>>> 0e74f447fc5bf001e215a5226dd7bcbd37c9acb2
   background-position: center center;
   background-size: cover;
   position: relative;
