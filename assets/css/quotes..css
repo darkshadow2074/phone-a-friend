@@ -1,7 +1,9 @@
 #header.header-transparent{
   background: rgba(1, 4, 136, 0.9) !important; 
 }
-
+.fixed-top{
+  position: relative !important;
+}
 .features{
   margin-top: 3rem;
 }
